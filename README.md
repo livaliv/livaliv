@@ -1,4 +1,4 @@
-<h1 align="center"> Lívia Lopes </h1>
+<h1 align="left"> Hi there! I'm Lívia Lopes ✨ </h1>
 
 - - - - - - - - 
 
